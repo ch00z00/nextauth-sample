@@ -49,7 +49,7 @@ export default function NavMenu() {
         <Link href="/serverAction">
           <li
             className={
-              pathname === "/serveraction" ? ACTIVE_ROUTE : INACTIVE_ROUTE
+              pathname === "/serverAction" ? ACTIVE_ROUTE : INACTIVE_ROUTE
             }
           >
             ServerAction Route
