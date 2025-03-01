@@ -1,9 +1,9 @@
 ### NextAuth.js sample
 This is the OAuth sample using `NextAuth.js`.
 
-### Commit log
-1st commit:
-Created basic GitHub authentication
+## Commit log
+### 1. Created basic GitHub authentication
+
 Reasoned about translation of commit details for a couple of seconds
 In the first commit, the following was done
 
