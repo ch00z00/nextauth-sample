@@ -4,6 +4,10 @@ This is the OAuth sample using `NextAuth.js`.
 ## Commit log
 ### 1. Created basic GitHub authentication
 
+
+https://github.com/user-attachments/assets/21640705-4cba-4296-8e5f-638f9343acca
+
+
 Reasoned about translation of commit details for a couple of seconds
 In the first commit, the following was done
 
