@@ -2,9 +2,12 @@
 This is the OAuth sample using `NextAuth.js`.
 
 ## Commit log
+
+<ins>
+
 ### 1. Created basic GitHub authentication
 
-<hr />
+</ins>
 
 In the first commit, the following was done
 
@@ -15,9 +18,11 @@ In the first commit, the following was done
 Authentication Endpoint:
 ``` http://localhost:3000/api/auth/signin ```
 
+<ins>
+
 ### 2. Implemented protected route using useSession
 
-<hr />
+</ins>
 
 In this commit, I learned the following:
 - With NextAuth.js, simply importing/exporting SessionProvider allows you to specify the `use client` directive.
@@ -27,9 +32,11 @@ In this commit, I learned the following:
 Protected Route Endpoint:
 ``` http://localhost:3000/protected ```
 
+<ins>
+
 ### 3. Refactored the API route to ServerAction
 
-<hr />
+</ins>
 
 In this commit, I learned the following:
 
