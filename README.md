@@ -45,3 +45,10 @@ In this commit, I learned the following:
 
 ServerAction Endpoint:
 ``` http://localhost:3000/serverAction ```
+
+<ins>
+
+### 4. Added API From Client
+
+</ins>
+

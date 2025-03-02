@@ -52,7 +52,16 @@ export default function NavMenu() {
               pathname === "/serverAction" ? ACTIVE_ROUTE : INACTIVE_ROUTE
             }
           >
-            ServerAction Route
+            Server Action
+          </li>
+        </Link>
+        <Link href="apiFromClient">
+          <li
+            className={
+              pathname === "/apiFromClient" ? ACTIVE_ROUTE : INACTIVE_ROUTE
+            }
+          >
+            API From Client
           </li>
         </Link>
       </ul>
